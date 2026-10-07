@@ -1,0 +1,178 @@
+body {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* .topic1 {
+    background-color: white;
+    background-image: url(topbg1.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 100%;
+} */
+
+.beCome {
+    width: 100%;
+    height: 350px;
+    background-color: white;
+    display: flex;
+    gap: 30px;
+    margin-left: 320px;
+    
+    
+}
+
+.two {
+    display: flex;
+    gap: 50px;
+    height: 330px;
+    background-color: white;
+}
+
+.find {
+    background-color: red;
+    border-radius: 20px;
+    width: 150px;
+    height: 35px;
+    border: 1px solid red;
+}
+
+.every {
+    margin-left: 190px;
+    margin-top: 60px;
+}
+
+.third {
+    width: 100%;
+    height: 400px;
+    background-color: #fff1ee;
+    display: flex;
+    gap: 30px;
+}
+
+
+.find1 {
+    background-color: red;
+    border-radius: 20px;
+    width: 130px;
+    height: 35px;
+    border: 1px solid red;
+}
+
+.dash {
+    margin-top: 100px;
+}
+
+.groser {
+    background-color: #fff1ee;
+}
+
+
+.conve {
+    display: flex;
+    gap: 40px;
+    width: 100%;
+    height: 330px;
+    background-color: white;
+}
+
+.findco {
+    background-color: red;
+    border-radius: 20px;
+    width: 100px;
+    height: 35px;
+    border: 1px solid red;
+}
+
+.help {
+    height: 500px;
+    width: 100%;
+    background-color: #fff1ee;
+
+}
+
+.findco1 {
+    background-color: red;
+    border-radius: 20px;
+    width: 100px;
+    height: 24px;
+    border: 1px solid red;
+}
+
+.findco2 {
+    background-color: red;
+    border-radius: 20px;
+    width: 120px;
+    height: 24px;
+    border: 1px solid red;
+}
+
+.bea {
+    display: flex;
+    gap: 60px;
+    margin-left: 220px;
+}
+
+.getco {
+    background-color: red;
+    border-radius: 20px;
+    width: 150px;
+    height: 24px;
+    border: 1px solid red;
+}
+
+.coda {
+    background-color: red;
+    border-radius: 20px;
+    width: 130px;
+    height: 25px;
+    border: 1px solid red;
+}
+
+.unlock {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+}
+
+.upsi {
+    display: flex;
+    gap: 60px;
+}
+
+.grow {
+    width: 100%;
+    height: 500px;
+    background-color: #fff1ee;
+    display: flex;
+    gap: 30px;
+}
+
+.partner {
+    background-color: red;
+    border-radius: 20px;
+    width: 130px;
+    height: 20px;
+    border: 1px solid red;
+}
+
+.getmore {
+    width: 100%;
+    height: 300px;
+}
+
+.pot {
+    display: flex;
+    gap: 20px
+
+}
+
+
+.pot1 {
+    margin-left: 300px;
+}
+
+.pot2 {
+    margin-left: 200px;
+}
